@@ -2,11 +2,38 @@
   <a href="https://irodev.net"><img src="banner.png" alt="İrodev: websites, software and search visibility" width="100%"></a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cards/services-dark.svg">
+    <img src="cards/services-light.svg" alt="What we do: corporate websites, online stores, custom PHP software, Telegram bots, SEO and AI-search visibility" width="880">
+  </picture>
+</p>
+
 **İrodev** is a small web and software studio for businesses in Turkey and the UK. We build corporate websites,
 online stores, custom PHP software and Telegram bots, and make businesses visible on Google, Google Maps and AI
 search. Every project starts with a written, fixed-price quote, and the client owns all the code.
 
+### What we work with
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cards/stack-dark.svg">
+    <img src="cards/stack-light.svg" alt="Technologies we work with: PHP, Laravel, MySQL, WordPress, WooCommerce, Shopify, Next.js, HTML5, CSS, JavaScript, Python, Telegram" width="880">
+  </picture>
+</p>
+
 ### Open source
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
+    <img src="cards/languages-light.svg" alt="Languages in our public repositories" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cards/projects-dark.svg">
+    <img src="cards/projects-light.svg" alt="Open source in numbers" width="49%">
+  </picture>
+</p>
 
 Tools we built for our own work and released for everyone, with documentation in English and Turkish:
 
@@ -36,3 +63,6 @@ kaynak araçlarımızın hepsinin Türkçe belgesi var.
 [Ücretsiz SEO analizi](https://irodev.net/tr/ucretsiz-seo-analizi) ·
 [AI görünürlük testi](https://irodev.net/tr/geo-ai-gorunurluk) ·
 [Fiyatlar](https://irodev.net/tr/fiyatlar) · [İletişim](https://irodev.net/tr/iletisim)
+
+<sub>The cards are rebuilt every day from GitHub's public data by [tools/cards.php](tools/cards.php). Technology
+logos from Simple Icons (CC0); each is a trademark of its owner.</sub>
