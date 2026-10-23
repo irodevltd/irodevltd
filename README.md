@@ -37,7 +37,7 @@ search. Every project starts with a written, fixed-price quote, and the client o
 
 Tools we built for our own work and released for everyone, with documentation in English and Turkish:
 
-| Project | |
+| Project | What it does |
 | --- | --- |
 | [**indexnow-php**](https://github.com/irodevltd/indexnow-php) | Automatic IndexNow for PHP sites: tells Bing, Yandex and the other engines which pages changed, straight from your sitemap. |
 | [**turkish-seo-text**](https://github.com/irodevltd/turkish-seo-text) | Turkish text tools for SEO: a stemmer that follows vowel harmony, Ateşman readability, keyword and phrase analysis. |
